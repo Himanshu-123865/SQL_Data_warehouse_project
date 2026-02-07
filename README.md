@@ -106,3 +106,8 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making
 
 ![image alt](https://github.com/Himanshu-123865/SQL_Data_warehouse_project/blob/236bd64c7c30539eb729a2a5801ef13b81c43a37/Docs/Data%20Model.png)
+
+##Author: 
+Himanshu Trivedi
+WFM MIS Analyst
+Email : Himanshu90tri@gmail.com
